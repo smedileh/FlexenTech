@@ -59,7 +59,7 @@ void TableSetup(){
                 }
             }
         }
-    //keep the encryptio feedback
+    //keep the encryption feedback
     for (short int i = 0; i < S; ++i) 
         {
             for (short int j = 0; j < S; ++j)
